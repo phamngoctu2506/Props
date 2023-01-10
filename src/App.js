@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import ShoesStore from './component/ShoesStore';
+import ShoesStore from './component2/ShoesStore';
 
 function App() {
   return (
